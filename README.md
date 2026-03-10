@@ -1,16 +1,28 @@
 ## Hi there 👋
+Jestem studentką II roku informatyki stosowanej w specjalizacji sieci komputerowe, mieszkająca w Krakowie. 
 
-<!--
-**LaskiewiczMartyna/LaskiewiczMartyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Obecnie intensywnie uczę się projektowania, konfiguracji oraz administracji sieciami lokalnymi i rozległymi. Rozwijam też swoje umiejętności w zakresie instalacji i administracji serwerami Windows oraz dokumentowania profesjonalnych instalacji sieciowych.
 
-Here are some ideas to get you started:
+Obecnie rozwijam swoje kompetencje, realizując kurs CCNA i pracując zdalnie w obsłudze klienta, co pozwala mi łączyć wiedzę techniczną z doskonałą organizacją czasu.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To profil, na którym będę udostępniać moje projekty akademickie, konfiguracje sieciowe oraz eksperymenty. Wszystko tworzę od podstaw, stawiając na praktyczne zastosowanie technologii.
+
+---
+
+## Narzędzia i Technologie
+* Sieci: Cisco Packet Tracer, konfiguracja IPv4/IPv6, Windows Server 
+* Programowanie: Python (Flask), C#, HTML, CSS 
+* Inne: Docker Compose, Microsoft Azure (podstawy), MS Office 
+
+---
+
+## Kilka słów o mnie 
+* 🎸 Uczę się grać na girze elektrycznej  
+* 🎮 Jestem fakną gier komputerowych, szczeólnie gatunków FPS oraz RPG 
+* ✈️ Uwielbiam odkrywać egzotyczne miejsca i lokalne kultury 
+* 🏊 Moją ulubiona forma regeneracji i dbania o zdrowie jest pływanie
+
+
+
+
+
