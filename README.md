@@ -1,9 +1,9 @@
 ## Hi there 👋
-Jestem studentką II roku informatyki stosowanej w specjalizacji sieci komputerowe, mieszkająca w Krakowie. 
+Jestem studentką II roku informatyki stosowanej w specjalizacji sieci komputerowe, mieszkającą w Krakowie. 
 
 Obecnie intensywnie uczę się projektowania, konfiguracji oraz administracji sieciami lokalnymi i rozległymi. Rozwijam też swoje umiejętności w zakresie instalacji i administracji serwerami Windows oraz dokumentowania profesjonalnych instalacji sieciowych.
 
-Obecnie rozwijam swoje kompetencje, realizując kurs CCNA i pracując zdalnie w obsłudze klienta, co pozwala mi łączyć wiedzę techniczną z doskonałą organizacją czasu.
+Rozwijam swoje kompetencje, realizując kurs CCNA i pracując zdalnie w obsłudze klienta, co pozwala mi łączyć wiedzę techniczną z doskonałą organizacją czasu.
 
 To profil, na którym będę udostępniać moje projekty akademickie, konfiguracje sieciowe oraz eksperymenty. Wszystko tworzę od podstaw, stawiając na praktyczne zastosowanie technologii.
 
@@ -17,10 +17,10 @@ To profil, na którym będę udostępniać moje projekty akademickie, konfigurac
 ---
 
 ## Kilka słów o mnie 
-* 🎸 Uczę się grać na girze elektrycznej  
-* 🎮 Jestem fakną gier komputerowych, szczeólnie gatunków FPS oraz RPG 
+* 🎸 Uczę się grać na gitarze elektrycznej  
+* 🎮 Jestem fanką gier komputerowych, szczególnie gatunków FPS oraz RPG 
 * ✈️ Uwielbiam odkrywać egzotyczne miejsca i lokalne kultury 
-* 🏊 Moją ulubiona forma regeneracji i dbania o zdrowie jest pływanie
+* 🏊 Moją ulubiona formą regeneracji i dbania o zdrowie jest pływanie
 
 
 
